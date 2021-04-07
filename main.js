@@ -3,7 +3,7 @@
 //3. Individuare la X per farlo chiudere
 
 
-var hamburger = $('.header-right a');
+var hamburger = $('.header-right a i');
 var cross = $('.hamburger-menu a');
 var menu = $('.hamburger-menu');
 
